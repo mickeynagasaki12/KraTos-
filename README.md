@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
+    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/c2312ce7ea61fe62501f7.jpg">
   </a>
 </p>
 
@@ -19,7 +19,7 @@
  
 <h1 align="center">𓅓𝐎𝐖𝐋-𝐀𝐈𓅓</h1>
 
-<h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
+<h2 align="left">ＳＥＳＳＩＯ�? ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
 <a href="https://replit.com/@vagaabond9/Pairing-Owl-ai"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
 <p/>

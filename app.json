@@ -1,5 +1,5 @@
 {
-  "name": "Owl Ai BOT",
+  "name": "Kratos-v9 BOT",
   "description": "This is a whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,11 +16,11 @@
   ],
   "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
   "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/1d0fb63c857138f5bee51.jpg",
+  "logo": "https://telegra.ph/file/10035541e70297fa72f14.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of owl-ai bot Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of kratos v9 bot Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
